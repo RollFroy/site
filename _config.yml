@@ -2,8 +2,10 @@ domain: geoffroy.de-piedoue.fr     # if you want to force HTTPS, specify the dom
 url: https://geoffroy.de-piedoue.fr  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /site/      # place folder name if the site is served in a subfolder
 
-
 theme: jekyll-theme-midnight
+
+title: Site de Geoffroy de Piédoüe
+description: 
 
 github:
   is_project_page: false
