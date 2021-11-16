@@ -4,3 +4,6 @@ baseurl: /site/      # place folder name if the site is served in a subfolder
 
 
 theme: jekyll-theme-midnight
+
+github:
+  is_project_page: false
