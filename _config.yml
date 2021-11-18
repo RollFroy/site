@@ -28,8 +28,9 @@ url: https://geoffroy.de-piedoue.fr # the base hostname & protocol for your site
 twitter_username: RollFroy
 github_username:  RollFroy
 
+theme: type-on-strap
+
 # Build settings
-remote_theme: sylhare/Type-on-Strap 
 plugins:
   - jekyll-paginate
   - jekyll-feed
