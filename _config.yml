@@ -31,6 +31,7 @@ github_username:  RollFroy
 # Build settings
 remote_theme: sylhare/Type-on-Strap 
 plugins:
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-titles-from-headings
