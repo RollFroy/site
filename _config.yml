@@ -27,8 +27,7 @@ baseurl: /site/ # the subpath of your site, e.g. /blog
 url: https://geoffroy.de-piedoue.fr # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RollFroy
 github_username:  RollFroy
-
-remote_theme: sylhare/Type-on-Strap 
+header_text: test
 
 # Build settings
 plugins:
