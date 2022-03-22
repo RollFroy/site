@@ -28,7 +28,7 @@ url: https://geoffroy.de-piedoue.fr # the base hostname & protocol for your site
 twitter_username: RollFroy
 github_username:  RollFroy
 
-remote_theme: sylhare/Type-on-Strap 
+# remote_theme: sylhare/Type-on-Strap 
 
 # Build settings
 plugins:
@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-titles-from-headings
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
